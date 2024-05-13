@@ -1,2 +1,0 @@
-# Marcap
-Challenge Desarrolladores
